@@ -1,4 +1,4 @@
-cd %localappdata%/kernel/powercord/themes
+cd Appdata/Local/kernel/powercord/themes
 git clone https://github.com/ItsTatsuya/Midnight
 cd ..
 cd plugins
