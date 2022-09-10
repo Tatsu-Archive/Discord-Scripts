@@ -1,4 +1,4 @@
-cd %localappdata%/kernel/packages
+cd Appdata/Local/kernel/packages
 git clone https://github.com/strencher-kernel/settings
 cd settings
 pnpm i
